@@ -20,3 +20,8 @@
          _.-'    /     Bb     '-. '-._ 
      _.-'       |      BBb       '-.  '-. 
     (________mrf\____.dBBBb.________)____)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fatalmerlin/count.svg" />
+</p>
