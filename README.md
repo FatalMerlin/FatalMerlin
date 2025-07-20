@@ -1,8 +1,8 @@
-                        ____ 
+                        ____
                       .'* *.'
                    __/_*_*(_
                   / _______ \
-                 _\_)/___\(_/_ 
+                 _\_)/___\(_/_
                 / _((\- -/))_ \
                 \ \())(-)(()/ /
                  ' \(((()))/ '
@@ -17,11 +17,12 @@
                 /   .     .   \
                /   /   |   \   \
              .'   /    b    '.  '.
-         _.-'    /     Bb     '-. '-._ 
-     _.-'       |      BBb       '-.  '-. 
+         _.-'    /     Bb     '-. '-._
+     _.-'       |      BBb       '-.  '-.
     (________mrf\____.dBBBb.________)____)
 
-<p align="center"> 
-  Visitor count<br>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=fatalmerlin)
+<p align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=fatalmerlin)
+
 </p>
