@@ -22,7 +22,5 @@
     (________mrf\____.dBBBb.________)____)
 
 <p align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=fatalmerlin)
-
+  <img src="https://komarev.com/ghpvc/?username=fatalmerlin" />
 </p>
