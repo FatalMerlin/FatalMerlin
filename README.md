@@ -23,5 +23,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/fatalmerlin/count.svg" />
+  ![Visitor Count](https://komarev.com/ghpvc/?username=fatalmerlin)
 </p>
